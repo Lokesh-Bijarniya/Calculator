@@ -1,0 +1,12 @@
+.parent{
+    width: 50%;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 15vh;
+    border-radius: 10px;
+    box-shadow: 10px 0px 5px gray;
+    min-width: 370px;
+    /* background-image : linear-gradient(rgb(221,157,157),yellow); */
+    background-color: #b9b5b5;
+}
+
